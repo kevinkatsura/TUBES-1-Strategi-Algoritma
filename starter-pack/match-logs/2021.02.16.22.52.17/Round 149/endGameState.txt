@@ -1,0 +1,128 @@
+Match seed: 88352
+
+The winner is: B - Reference Bot
+
+A - James- score:-188 health:25
+B - Reference Bot- score:1293 health:346
+=======================================
+Referee messages
+=======================================
+DoNothingsCount for @Player(1) reached a count of 3 @Round(4)
+DoNothingsCount for @Player(1) reached a count of 3 @Round(10)
+DoNothingsCount for @Player(1) reached a count of 3 @Round(40)
+DoNothingsCount for @Player(1) reached a count of 3 @Round(67)
+DoNothingsCount for @Player(1) reached a count of 3 @Round(139)
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 2 and 3
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 5 and 6
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 8 and 9
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 11 and 12
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 14 and 15
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 17 and 18
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 20 and 21
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 23 and 24
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 26 and 27
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 29 and 30
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 32 and 33
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 35 and 36
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 38 and 39
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 41 and 42
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 44 and 45
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 47 and 48
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 50 and 51
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 53 and 54
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 56 and 57
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 59 and 60
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 62 and 63
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 65 and 66
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 68 and 69
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 71 and 72
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 74 and 75
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 77 and 78
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 80 and 81
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 83 and 84
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 86 and 87
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 89 and 90
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 92 and 93
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 95 and 96
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 98 and 99
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 101 and 102
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 104 and 105
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 107 and 108
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 110 and 111
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 113 and 114
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 116 and 117
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 119 and 120
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 122 and 123
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 125 and 126
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 128 and 129
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 131 and 132
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 134 and 135
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 137 and 138
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 138 and 139
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 139 and 140
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 140 and 141
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 141 and 142
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 142 and 143
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 143 and 144
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 144 and 145
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 145 and 146
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 146 and 147
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 147 and 148
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive timeouts on rounds 148 and 149
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 2 and 3
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 5 and 6
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 8 and 9
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 11 and 12
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 14 and 15
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 17 and 18
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 20 and 21
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 23 and 24
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 26 and 27
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 29 and 30
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 32 and 33
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 35 and 36
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 38 and 39
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 41 and 42
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 44 and 45
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 47 and 48
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 50 and 51
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 53 and 54
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 56 and 57
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 59 and 60
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 62 and 63
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 65 and 66
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 68 and 69
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 71 and 72
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 74 and 75
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 77 and 78
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 80 and 81
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 83 and 84
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 86 and 87
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 89 and 90
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 92 and 93
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 95 and 96
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 98 and 99
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 101 and 102
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 104 and 105
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 107 and 108
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 110 and 111
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 113 and 114
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 116 and 117
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 119 and 120
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 122 and 123
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 125 and 126
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 128 and 129
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 131 and 132
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 134 and 135
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 137 and 138
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 138 and 139
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 139 and 140
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 140 and 141
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 141 and 142
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 142 and 143
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 143 and 144
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 144 and 145
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 145 and 146
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 146 and 147
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 147 and 148
+Player: 668bc817-da17-4a27-b5ea-d570d5a351a2 (A - James) -> Consecutive exceptions on rounds 148 and 149
